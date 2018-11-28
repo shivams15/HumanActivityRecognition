@@ -1,0 +1,1 @@
+kinematics.mat		output of motion estimation that is segmented and labeled with respect to the type of activities
